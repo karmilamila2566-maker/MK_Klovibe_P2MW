@@ -1,0 +1,8 @@
+{
+  "name": "KLOVIBE - Manajemen Keuangan & HPP Bouquet",
+  "description": "Aplikasi manajemen keuangan dan analisis bisnis bouquet KLOVIBE: kalkulator HPP presisi (bahan habis pakai & depresiasi alat), laporan laba rugi, neraca, arus kas, dan grafik interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
